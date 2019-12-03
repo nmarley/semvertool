@@ -1,0 +1,5 @@
+# ignore generated coverage file
+coverage.txt
+
+# ignore compiled binaries
+bin/
